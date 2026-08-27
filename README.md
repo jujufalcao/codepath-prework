@@ -1,6 +1,7 @@
 Introduce Yourself
 
 App Description
+
 This app allows users to introduce themselves by inserting their first and last name, and their school name. Users can then select what year they are in. Using a stepper, users can display how many pets they want, and then using the switch they can also display if they'd like more pets. After completing these fields and clicking the "Introduce Self" button, a message will pop up summarizing the user's inputs.
 
 App Walk-though
@@ -11,8 +12,8 @@ Required Features:
 - [x] App displays an image of a school's logo
 - [x] App has three textfields for first, last, and school names
 - [x] App has a segmented control that changes student year
-- [x] Number of pet matches label is increased/decreased by stepper
-- [x] Switch makes a statement about wanting more pets or not(true/false)
+- [x] Number of pets label is increased/decreased by stepper
+- [x] Switch makes a statement about wanting more pets or not (true/false)
 - [x] Introduce yourself button shows alert box with an introduction and dismiss button
 
 Optional Features
