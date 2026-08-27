@@ -6,7 +6,7 @@ This app allows users to introduce themselves by inserting their first and last 
 
 App Walk-though
 
-![App Walkthrough](IntroduceSelf_app.gif)
+<img src="IntroduceSelf_app.gif" width="400">
 
 Required Features:
 - [x] App displays an image of a school's logo
