@@ -6,7 +6,7 @@ This app allows users to introduce themselves by inserting their first and last 
 
 App Walk-though
 
-https://imgur.com/a/VFORYni
+![App Walkthrough](IntroduceSelf_app.gif)
 
 Required Features:
 - [x] App displays an image of a school's logo
